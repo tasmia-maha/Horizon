@@ -3,7 +3,7 @@
 * Maksuda Ezma (Team Leader)---https://github.com/Maksuda-Ezma123
 * Tasmia Akter---https://github.com/tasmia-maha
 * Tabassum Tasmiah---https://github.com/tabassumtasmiah
-* Sayma Akter Jumu
+* Sayma Akter Jumu---https://github.com/saymajumu
 # A system to handle classroom complaints and management.
 🚀 Features (Mission Accomplished)
 
@@ -21,7 +21,7 @@ Mission 6: Fact Checker.
 
 🎨 Design (Figma)
 
-The UI/UX design of our project can be seen here: https://www.figma.com/design/3jFhuyM6FW81IKTTkfudrP/Classguard?node-id=0-1&t=LwV82OIVjpo4FAVF-1
+The UI/UX design of our project can be seen here: [https://www.figma.com/design/3jFhuyM6FW81IKTTkfudrP/Classguard?node-id=0-1&t=LwV82OIVjpo4FAVF-1](https://www.figma.com/design/3jFhuyM6FW81IKTTkfudrP/Classguard?node-id=0-1&t=ojcQmvSnTCINC9eD-1)
 
 
 
